@@ -19,7 +19,7 @@ theme_set(theme_bw()) # just my preference for plots
 
 ## ------------------------------------------------------------------------
 ## Define input file (located in same directory)
-filename <- "./data/2013/LAU.csv"
+filename <- "./data/BAS.csv"
 file.exists(filename)
 
 ## ------------------------------------------------------------------------

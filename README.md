@@ -3,6 +3,10 @@ This repository holds all the necessary information for our project.
 
 ## Git commands 
 
+### Whenever you want 
+To know at what step you are : git status
+
+
 ### Before coding 
 to pull information from the server : git pull
 

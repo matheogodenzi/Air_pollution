@@ -3,12 +3,16 @@ This repository holds all the necessary information for our project.
 
 ## Git commands 
 
+### Whenever you want 
+To know at what step you are : git status
+
+
 ### Before coding 
 to pull information from the server : git pull
 
 ### After coding
 to save your work and show it to others : 
-- To tell to your compouter that you want to consider certain files : git add 
+- To tell to your computer that you want to consider certain files : git add .
 - to register theses files and change the saved version on your computer : git commit -m"add a comment to describe your work"
 - to make sure the remote version is still the same : git pull
   1) if nothing has changed > got to the next point
